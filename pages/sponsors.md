@@ -1,6 +1,6 @@
-#Supporters | Sponsors | Backers
+# Supporters | Sponsors | Backers
 
-(<img src="https://images.opencollective.com/static/images/become_sponsor.svg">)[https://opencollective.com/nginx-proxy-automation]
+[<img src="https://images.opencollective.com/static/images/become_sponsor.svg">](https://opencollective.com/nginx-proxy-automation)
 
 ## Automation Backers via [Patreon](https://www.patreon.com/evertramos)
 
