@@ -14,9 +14,9 @@
 
 ### Contributors for project [docker-compose-nginx-proxy-companion](https://github.com/evertramos/nginx-proxy-automation/tree/v0.4):
 
-- [@j7an](https://github.com/j7an) - Many contributions and the ipv6 settings for nginx-proxy-automation
+- [@j7an](https://github.com/j7an) - Many contributions on ipv6 settings
 - [@buchdag](https://github.com/JrCs/docker-letsencrypt-nginx-proxy-companion/pull/226#event-1145800062)
-- [@fracz](https://github.com/fracz) - Many contributions to 
+- [@fracz](https://github.com/fracz)
 
 > Previous version of [nginx-proxy-automation](https://github.com/evertramos/nginx-proxy-automation].
  
