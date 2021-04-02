@@ -23,7 +23,7 @@
 <!--Contributors-->
 <h2 align="center">Special thanks</h2>
 
-<h3 align="left">Project: [docker-compose-nginx-proxy-companion](https://github.com/evertramos/nginx-proxy-automation/tree/v0.4)</h3>
+<h3 align="left">Project: <a target="_blank" src="https://github.com/evertramos/nginx-proxy-automation/tree/v0.4">docker-compose-nginx-proxy-companion</a></h3>
 
 - [@j7an](https://github.com/j7an) - Many contributions and the ipv6 settings for nginx-proxy-automation
 - [@buchdag](https://github.com/JrCs/docker-letsencrypt-nginx-proxy-companion/pull/226#event-1145800062)
