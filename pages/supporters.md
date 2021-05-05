@@ -4,7 +4,7 @@
 
 ## Backers via [Patreon](https://www.patreon.com/evertramos)
 
-- [](https://github.com/kdlslyv)
+- [kdl](https://github.com/kdlslyv)
 - [Emanuele Rangan](https://github.com/emanuelerangan) - the very first backer in Patreon
 
 ## Backers via [OpenCollective](https://opencollective.com/nginx-proxy-automation)
@@ -19,5 +19,5 @@
 - [@buchdag](https://github.com/JrCs/docker-letsencrypt-nginx-proxy-companion/pull/226#event-1145800062)
 - [@fracz](https://github.com/fracz)
 
-> Previous version of [nginx-proxy-automation](https://github.com/evertramos/nginx-proxy-automation].
+> Previous version (tag v0.4) of [nginx-proxy-automation](https://github.com/evertramos/nginx-proxy-automation)
  
