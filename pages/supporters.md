@@ -1,4 +1,4 @@
-# Supporters | Sponsors | Backers
+# Supporters
 
 [<img src="https://images.opencollective.com/static/images/become_sponsor.svg">](https://opencollective.com/nginx-proxy-automation)
 
