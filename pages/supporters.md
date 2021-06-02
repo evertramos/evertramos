@@ -4,7 +4,6 @@
 
 ## Backers via [Patreon](https://www.patreon.com/evertramos)
 
-- [kdl](https://github.com/kdlslyv)
 - [Emanuele Rangan](https://github.com/emanuelerangan) - the very first backer in Patreon
 
 ## Backers via [OpenCollective](https://opencollective.com/nginx-proxy-automation)
