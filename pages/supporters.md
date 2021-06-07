@@ -4,8 +4,10 @@
 
 ## Backers via [Patreon](https://www.patreon.com/evertramos)
 
-- [Mark Okhman](https://github.com/markokhman) - the first Hero Supporter! 🚀
 - [Emanuele Rangan](https://github.com/emanuelerangan) - the very first backer in Patreon
+- [Mark Okhman](https://github.com/markokhman) - the first Hero Supporter! 🚀
+- [Christophe Laborde](https://github.com/Tofdu31) - Hero Supporter! 🔥
+
 
 ## Backers via [OpenCollective](https://opencollective.com/nginx-proxy-automation)
 
@@ -16,6 +18,7 @@
 ### Here are those who makes the difference!
 
 - [Mark Okhman](https://github.com/markokhman) - the first Hero Supporter! 🚀
+- [Christophe Laborde](https://github.com/Tofdu31) - Hero Supporter! 🔥
 
 ### Contributors for project [docker-compose-nginx-proxy-companion](https://github.com/evertramos/nginx-proxy-automation/tree/v0.4):
 
