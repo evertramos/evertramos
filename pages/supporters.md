@@ -4,6 +4,7 @@
 
 ## Backers via [Patreon](https://www.patreon.com/evertramos)
 
+- [Victor Pinheiro](https://github.com/Victorhpinheiro)
 - [kdl](https://github.com/kdlslyv)
 - [Emanuele Rangan](https://github.com/emanuelerangan) - the very first backer in Patreon
 
