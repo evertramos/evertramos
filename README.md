@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on server hosting automation using docker
+- 🔭 I’m currently working on server hosting automation
+- ☁️ Creating cloud infrastructure in Kubernteres 
 - 📫 How to reach me: evert.ramos@gmail.com
 
 ### Supporters
