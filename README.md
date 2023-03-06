@@ -4,11 +4,7 @@
 - ☁️ Creating cloud infrastructure in Kubernteres 
 - 📫 How to reach me: evert.ramos@gmail.com
 
-### Supporters
-
-To see a full list of our supporters please access:
-
-[Awesome supporters!](https://github.com/evertramos/evertramos/blob/main/pages/supporters.md)
+### [Supporters](https://github.com/evertramos/evertramos/blob/main/pages/supporters.md)
 
 <!--
 **evertramos/evertramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
