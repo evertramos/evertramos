@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on server hosting automation
 - ☁️ Creating cloud infrastructure in Kubernteres 
-- 📫 How to reach me: evert.ramos@gmail.com
 
 ### [Supporters](https://github.com/evertramos/evertramos/blob/main/pages/supporters.md)
 
