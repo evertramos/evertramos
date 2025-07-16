@@ -5,6 +5,11 @@
 
 ### [Supporters](https://github.com/evertramos/evertramos/blob/main/pages/supporters.md)
 
+### Useful links
+- Tools Landscape [landscape.cncf.io](https://landscape.cncf.io/)
+- Security Certification Roadmap [pauljerimy.com/security-certification-roadmap](https://pauljerimy.com/security-certification-roadmap/)
+- Reading Resource [oreilly.com](https://www.oreilly.com/)
+
 <!--
 **evertramos/evertramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
